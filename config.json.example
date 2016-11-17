@@ -1,0 +1,9 @@
+{
+  "auth": {
+    "username": "",
+    "password": ""
+  },
+  "ops_manager_url": "https://",
+  "group_id": "",
+  "number_of_days_old": "7"
+}
